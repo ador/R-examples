@@ -1,0 +1,6 @@
+Second example: the printNRandoms.R script generates
+N random numbers instead of 10, and also the random seed is a parameter.
+We have introduced a function to make the code more readable.
+
+How to run:
+./generateRandoms2.sh
