@@ -1,0 +1,5 @@
+First example: a bash script that runs "print10Randoms.R" script 
+to generate 10 random numbers and print them to the screen.
+
+How to run:
+./generateRandoms.sh
