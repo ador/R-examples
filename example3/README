@@ -1,0 +1,7 @@
+Third example: we'll read in data files (csv format) into 
+data frames and print some basic statistics.
+
+
+How to run:
+./summarizeData1.sh
+./summarizeData2.sh
